@@ -9,7 +9,7 @@
 Проекты, связанные с ручным и API-тестированием, поиском ошибок и проверкой функциональности приложений.
 
 - [API Testing — JSONPlaceholder](https://github.com/rlvnlv/api-testing-project) — тестирование API с помощью Postman.
-- SauceDemo — Manual Testing — ручное тестирование веб-приложения. *(В разработке)*
+- [SauceDemo — Manual Testing](https://github.com/rlvnlv/saucedemo-manual-testing) — ручное тестирование веб-приложения. 
 
 ## 💻 Разработка
 
