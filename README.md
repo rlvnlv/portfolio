@@ -11,7 +11,8 @@
 - [API Testing — JSONPlaceholder](https://github.com/rlvnlv/api-testing-project) — тестирование API с помощью Postman.
 - [SauceDemo — Manual Testing](https://github.com/rlvnlv/saucedemo-manual-testing) — ручное тестирование веб-приложения.
 - [qa-ui-automation](https://github.com/rlvnlv/qa-ui-automation) - автоматизация UI-тестирования с использованием Python, Selenium и Pytest.
-
+- [API Automation Testing](https://github.com/rlvnlv/api-automation-testing) — автоматизация API-тестирования с использованием Python, Pytest и Requests.
+ 
 ## 💻 Разработка
 
 Практические проекты по программированию, созданию приложений и веб-разработке.
